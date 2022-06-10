@@ -13,7 +13,7 @@ I love solving new problems and improving solutions everyday.
 - Kubernetes and containers
 
 ### Ask me about 💬:
-- Infrastructure as Code (Terraform Bias), AWS, CI/CD and Serverless Framework
+- Infrastructure as Code (Terraform Bias), AWS, CI/CD, Serverless, Monitoring & Logging tools
 
 ### How to reach me: 
 https://keybase.io/nayoa4
